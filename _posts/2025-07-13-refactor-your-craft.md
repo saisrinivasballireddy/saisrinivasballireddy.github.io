@@ -1,5 +1,5 @@
 ---
-title: Refactor Your Craft: Top-3 Misnomer Patterns to Avoid
+title: "Refactor Your Craft: Top-3 Misnomer Patterns to Avoid"
 date: 2025-07-13
 categories: [Career, Leadership]
 tags: [refactoring, leadership, growth, motivation]
