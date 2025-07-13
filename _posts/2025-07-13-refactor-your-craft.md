@@ -1,6 +1,8 @@
 ---
-title: "Refactor Your Craft: Top-3 Misnomer Patterns to Avoid"
-date: 2025-07-13
+title: "Refactor Your Craft: Top‑3 Misnomer Patterns to Avoid"
+description: Reflections on sustainable motivation, influence, and intrinsic progress.
+author: sai
+date: 2025‑07‑13 09:00:00 +1000
 categories: [Career, Leadership]
 tags: [refactoring, leadership, growth, motivation]
 ---
@@ -9,59 +11,58 @@ tags: [refactoring, leadership, growth, motivation]
 
 ## Journaling Your Traits
 
-### Top-3 Misnomer Patterns
+### Top‑3 Misnomer Patterns
 
 ---
 
 ### **M1: Modelling for the Paycheque**
 
-The most common pitfall one should avoid. Chasing a pay raise as your primary motivator can **jeopardize your core belief system**, forcing you to mold yourself to fit into patterns that serve short-term gains.
+The most common pitfall one should avoid. Chasing a pay raise as your primary motivator can **jeopardize your core beliefs**, forcing you to mold yourself to fit patterns that serve short‑term gains.
 
-Even if it helps you climb the professional ladder, this path is **not sustainable**.
+Even if it helps you climb the career ladder, this path is **not sustainable**.
 
-At some point, monetary hikes will plateau. What sustains your growth beyond that is **heroic enthusiasm and intrinsic motivation**. True mastery emerges when you **model your soul for the long-term game**.
+At some point, monetary increases will plateau. What sustains your growth beyond that is **heroic enthusiasm and intrinsic motivation**. True mastery emerges when you **play the long game**.
 
 ---
 
 ### **M2: Modelling by Influence**
 
-> *Guess who wins? Personality of Influence or Personality with Knowledge?*
+> *Guess who wins — charisma or knowledge?*
 
-Don’t jump in too quickly. Understand the context.
+Don’t jump in too quickly. Context is key.
 
-Often, our environment is shaped by the collective ideology of those around us. If the consensus favors charisma over substance, even an Einstein can lose a proposal.
+Our environment is shaped by the collective ideology of those around us. If charisma trumps substance, even an Einstein can lose a proposal.
 
-The modern-day blessing lies in being surrounded by people who **share your passion and values**.
+The blessing of modern workplaces lies in being surrounded by people who **share your passion and values**.
 
-To thrive in such an environment:
-- Keep refining your skills.
-- Showcase your authentic nature.
-- Resist swaying under the shadow of influential personas.
+To thrive:
+- Refine your skills.
+- Showcase who you really are.
+- Resist fading under shadows of charismatic figures.
 
-You may not always "win", but you’ll be **rock-solid and internally fulfilled**.
+You may not always "win," but you'll be **rock‑solid and fulfilled**.
 
 ---
 
 ### **M3: Attention Syndrome**
 
-This is a dangerous trap.
+This is a real trap.
 
-To detect it, ask yourself:
-- Are you demotivated despite exciting work?
-- Are you rolling up your sleeves even when no one’s watching?
-- Do you thrive even when recognition is missing?
-- Are you committed even if no spotlight shines on your initiative?
+Ask yourself:
+- Am I demotivated by a lack of recognition?
+- Do I still dive deep when no one’s watching?
+- Do I commit even if initiatives go unnoticed?
 
-If you're answering "yes" to:
-- "No rewards but exciting work"
-- "No acknowledgements but opportunity to grow"
-- "Initiatives go unnoticed"
-- "No recognition for years"
-- "Yet relentless in your effort"...
+If you're nodding to:
+- **No rewards but exciting work**
+- **No acknowledgements but room to grow**
+- **Hidden initiatives**
+- **No recognition for years**
+- **Yet relentless effort**
 
-Then reflect: **Will you opt in or opt out?**
+…then pause: **opt‑in or opt‑out?**
 
-You don’t have to be a rebel to be a leader. The **traits you develop today** will shape your legacy and inspire those you mentor tomorrow.
+You don’t need to rebel to lead. The **traits you cultivate now** shape your legacy and inspire those you'll mentor.
 
 ---
 
@@ -69,13 +70,11 @@ You don’t have to be a rebel to be a leader. The **traits you develop today** 
 
 To all emerging and future leaders:
 
-- **Invest in long-term traits.**
-- **Lift your peers** and help them connect with your higher vision.
+- **Invest in long‑term character.**
+- **Elevate your peers** and help them align with your vision.
 
-If you are aligned with your vision **but disconnected from your team**, that’s not a win.
+If you're disconnected from your team—even with a clear vision—it's not truly a win.
 
-When your team buys into your ideology not because of your title, but because of your **experience and integrity**, you're not just building products—**you're building an ecosystem** that can create wonders.
+When your team buys into your ideology—not because of your title but because of your **experience and integrity**—you’re not just building products; **you're building an ecosystem** that can create wonders.
 
-You will be a **hero in their journey**.
-
----
+You become a **hero in their journey**.
