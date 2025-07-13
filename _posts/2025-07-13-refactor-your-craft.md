@@ -2,7 +2,7 @@
 title: "Refactor Your Craft: Top‑3 Misnomer Patterns to Avoid"
 description: Reflections on sustainable motivation, influence, and intrinsic progress.
 author: sai
-date: 2025-07-13 14:10:00 +0800
+date: 2025-07-12 14:10:00 +0800
 categories: [Career, Leadership]
 tags: [refactoring, leadership, growth, motivation]
 ---
